@@ -1,1 +1,1 @@
-#TechWise Blackjack HW repo
+Techwise Blackjack Project
